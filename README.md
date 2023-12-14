@@ -16,8 +16,8 @@ Please read the following instructions carefully before you start working on the
 Collaborating on GitHub involves working with others on a shared project. Here's a general guide on how to collaborate using GitHub:
 
 1. **Create a GitHub Account:**
-   - If you don't have a GitHub account, sign up at [github.com]
-   - If you already have a GitHub account, log in at [github.com]
+   - If you don't have a GitHub account, sign up at [github.com](https://github.com/)
+   - If you already have a GitHub account, log in at [github.com](https://github.com/)
 
 2. **Install GitHub Desktop:**
    - Download and install GitHub Desktop at [desktop.github.com](https://desktop.github.com/).
@@ -97,8 +97,8 @@ Collaborating on GitHub involves working with others on a shared project. Here's
 Collaborating on GitHub involves working with others on a shared project. Here's a general guide on how to collaborate using GitHub:
 
 1. **Create a GitHub Account:**
-   - If you don't have a GitHub account, sign up at [github.com](https://github.com/).
-   - If you already have a GitHub account, log in at [github.com]
+   - If you don't have a GitHub account, sign up at [github.com](https://github.com/)
+   - If you already have a GitHub account, log in at [github.com](https://github.com/)
 
 2. **Clone the Repository:**
 
