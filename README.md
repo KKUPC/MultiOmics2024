@@ -275,7 +275,9 @@ Remember that this is a basic workflow, and depending on the project, you might 
    \*This is not italic\*
    ```
 
-![PMU-B](./elements/img/PMU-B.png)
+<img src="./elements/img/DMB+logo-color1.png" alt="Alt Text" width="300" height="200">
+
+![PMU-B](./elements/img/PMU-B.png) 
 ![KKU](./elements/img/KKU.png)
 ![MD KKU](./elements/img/MDKKU.png)
 ![System Biosciences](./elements/img/Systems%20Biosciences.jpg)
