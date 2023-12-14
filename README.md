@@ -263,11 +263,16 @@ Remember that this is a basic workflow, and depending on the project, you might 
    | Header 1 | Header 2 |
    | -------- | -------- |
    | Cell 1   | Cell 2   |
+   | Cell 3   | Cell 4   |
    ```
-
+   | Header 1 | Header 2 |
+   | -------- | -------- |
+   | Cell 1   | Cell 2   |
+   | Cell 3   | Cell 4   |
+   
    Creates a simple table.
 
-10. **Escaping Characters:**
+11. **Escaping Characters:**
 
     If you want to display special characters as plain text, you can use the backslash `\` to escape them.
 
