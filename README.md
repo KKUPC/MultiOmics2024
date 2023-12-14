@@ -4,7 +4,7 @@ make jump to #How to contribute to this repository
 # Table of Contents
 - [Introduction](#introduction)
 - [How to contribute to this repository via GitHub Desktop](#how-to-contribute-to-this-repository-(using-github-desktop))
-- [How to contribute to this repository via Git commands] (#how-to-contribute-to-this-repository-(using-git-commands))
+- [How to contribute to this repository via Git commands](#how-to-contribute-to-this-repository-(using-git-commands))
 - [How to perform document with Mark down language (using .md file)](#how-to-perform-document-with-mark-down-language-using-md-file)
 
 
