@@ -277,7 +277,7 @@ Remember that this is a basic workflow, and depending on the project, you might 
 
 ![PMU-B](./elements/img/PMU-B.png)
 ![KKU](./elements/img/KKU.png)
-![MD KKU](./elements/img/MD_KKU.png)
+![MD KKU](./elements/img/MDKKU.png)
 ![System Biosciences](./elements/img/Systems%20Biosciences.jpg)
 ![KKUPC](./elements/img/KKUPC_text.png)
 ![Si-LoL](./elements/img/Si-LoL.jpg)
