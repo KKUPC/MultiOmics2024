@@ -275,14 +275,14 @@ Remember that this is a basic workflow, and depending on the project, you might 
    \*This is not italic\*
    ```
 
-
-<img src="./elements/img/PMU-B.png" alt="Alt Text" width="100" height=100%>
-<img src="./elements/img/KKU.png" alt="Alt Text" width="100" height=100%>
-<img src="./elements/img/MDKKU.png" alt="Alt Text" width="100" height=100%>
-<img src="./elements/img/Systems%20Biosciences.jpg" alt="Alt Text" width="100" height=100%>
-<img src="./elements/img/KKUPC_text.png" alt="Alt Text" width="100" height=100%>
-<img src="./elements/img/Si-LoL.jpg" alt="Alt Text" width="100" height=100%>
-<img src="./elements/img/DMB+logo-color1.png" alt="Alt Text" width="100" height=100%>
-<img src="./elements/img/SynBio_Consortium_logo.webp" alt="Alt Text" width="100" height=100%>
-<img src="./elements/img/KUSynBio.jpg" alt="Alt Text" width="100" height=100%>
-
+<div style="display: flex; justify-content: space-between;">
+   <img src="./elements/img/PMU-B.png" alt="PMU-B" width="100" height=100%>
+   <img src="./elements/img/KKU.png" alt="KKU" width="100" height=100%>
+   <img src="./elements/img/MDKKU.png" alt="MD KKU" width="100" height=100%>
+   <img src="./elements/img/Systems%20Biosciences.jpg" alt="Systems Biosciences" width="100" height=100%>
+   <img src="./elements/img/KKUPC_text.png" alt="AKKUPC" width="100" height=100%>
+   <img src="./elements/img/Si-LoL.jpg" alt="Si-LoL" width="100" height=100%>
+   <img src="./elements/img/DMB+logo-color1.png" alt="DMB" width="100" height=100%>
+   <img src="./elements/img/SynBio_Consortium_logo.webp" alt="SynBio" width="100" height=100%>
+   <img src="./elements/img/KUSynBio.jpg" alt="KU-SynBio" width="100" height=100%>
+<\div>
