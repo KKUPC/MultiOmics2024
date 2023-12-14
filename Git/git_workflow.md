@@ -30,13 +30,13 @@
    ```bash
    $ git push origin <branch-name>
    ```
-   Push your branch and changes to the remote repository.
+   Push your branch and make changes to the remote repository.
 
 7. **Merge Changes:**
-   - Visit the repository on the Git hosting platform.
+   - Visit the repository on the Git hosting platform `Git Desktop`, or `GitHub`(https://github.com).
    - Create a pull request or merge request from your branch.
-   - Review changes, discuss with collaborators if needed.
+   - Review changes, and discuss with collaborators if needed.
    - Merge the changes into the main branch.
 
-This workflow is straightforward and works well for individual contributors working on feature branches. It's a good practice to create a branch for each logical unit of work to keep changes isolated and easily manageable. The merge step typically involves collaboration and code review before integrating changes into the main branch.
+This straightforward workflow works well for individual contributors working on feature branches. It's a good practice to create a branch for each logical unit of work to keep changes isolated and easily manageable. The merge step typically involves collaboration and code review before integrating changes into the main branch.
 
