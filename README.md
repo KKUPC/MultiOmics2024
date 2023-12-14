@@ -275,3 +275,12 @@ Remember that this is a basic workflow, and depending on the project, you might 
    \*This is not italic\*
    ```
 
+![PMU-B](./elements/img/PMU-B.png)
+![KKU](./elements/img/KKU.png)
+![MD KKU](./elements/img/MD_KKU.png)
+![System Biosciences](./elements/img/Systems%20Biosciences.jpg)
+![KKUPC](./elements/img/KKUPC_text.png)
+![Si-LoL](./elements/img/Si-LoL.jpg)
+![DMB](./elements/img/DMB+logo-color1.png)
+![SynBio](./elements/img/SynBio_Consortium_logo.webp)
+![KU SynBio](./elements/img/KUSynBio.jpg)
