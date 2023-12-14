@@ -285,4 +285,4 @@ Remember that this is a basic workflow, and depending on the project, you might 
    <img src="./elements/img/DMB+logo-color1.png" alt="DMB" width="100" height=100%>
    <img src="./elements/img/SynBio_Consortium_logo.webp" alt="SynBio" width="100" height=100%>
    <img src="./elements/img/KUSynBio.jpg" alt="KU-SynBio" width="100" height=100%>
-<\div>
+
