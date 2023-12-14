@@ -33,7 +33,7 @@
    Push your branch and make changes to the remote repository.
 
 7. **Merge Changes:**
-   - Visit the repository on the Git hosting platform `Git Desktop`, or (https://github.com).
+   - Visit the repository on the Git hosting platform `GitHub Desktop`, or (https://github.com).
    - Create a pull request or merge request from your branch.
    - Review changes, and discuss with collaborators if needed.
    - Merge the changes into the main branch.
