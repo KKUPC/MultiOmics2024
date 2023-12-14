@@ -3,7 +3,8 @@ make jump to #How to contribute to this repository
 
 # Table of Contents
 - [Introduction](#introduction)
-- [How to contribute to this repository](#how-to-contribute-to-this-repository)
+- [How to contribute to this repository](#how-to-contribute-to-this-repository-(using-github-desktop))
+- [How to contribute to this repository](#how-to-contribute-to-this-repository-(using-git-commands))
 - [How to perform document with Mark down language (using .md file)](#how-to-perform-document-with-mark-down-language-using-md-file)
 
 
@@ -12,8 +13,88 @@ This repository is for the MultiOmics2024 course.
 Please read the following instructions carefully before you start working on the repository.
 
 ---
+# How to contribute to this repository (Using GitHub Desktop)
+Collaborating on GitHub involves working with others on a shared project. Here's a general guide on how to collaborate using GitHub:
 
-# How to contribute to this repository
+1. **Create a GitHub Account:**
+   - If you don't have a GitHub account, sign up at [github.com]
+   - If you already have a GitHub account, log in at [github.com]
+
+2. **Install GitHub Desktop:**
+   - Download and install GitHub Desktop at [desktop.github.com](https://desktop.github.com/).
+
+3. **Clone the Repository:**
+   - First step you need to go to local folder where you want to clone the repository.
+   For example
+   ```bash
+   cd /home/username/Documents
+   ```
+   ```bash
+   mkdir GitHub; cd GitHub
+   ```
+   - Clone the repository to your local machine using GitHub Desktop. This creates a local copy of the project.
+   - Click on the "Clone a repository from the Internet..." button.
+   - Select the "URL" tab and enter the repository URL.
+   - Choose the local path where you want to clone the repository.
+   - Click on the "Clone" button.
+
+4. **Create a Branch:**
+   - Always work in a branch to avoid making changes directly to the main branch. Use the GitHub Desktop interface to create a branch.
+
+     ```bash
+     git branch <branch-name>
+     git checkout <branch-name>
+     ```
+
+     Or, you can use the shorthand:
+
+     ```bash
+     git checkout -b <branch-name>
+     ```
+
+5. **Make Changes:**
+   - Make your changes to the code locally.
+   for this step you need to create a new folder with your subject name and add your files there.
+   or you can duplicate the template folder `Master` and rename it with your subject name.
+   
+   to edit `.md` files you can use any text editor or IDE.
+
+6. **Commit Changes:**
+   - Commit your changes to your branch. This stages your changes locally.
+
+     ```bash
+     git add .
+     git commit -m "Your commit message here"
+     ```
+
+7. **Push Changes:**
+   - Push your branch to the GitHub repository.
+
+     ```bash
+     git push origin <branch-name>
+     ```
+
+8. **Create a Pull Request (PR):**
+   - On the GitHub repository, click on the "New Pull Request" button.
+   - Select the base branch (usually `main`) and the branch with your changes.
+   - Write a description of your changes and create the pull request.
+
+9. **Code Review:**
+   - Collaborators can review your changes and leave comments.
+
+10. **Merge Changes:**
+    - If the changes are approved, merge your branch into the main branch through the GitHub interface.
+
+11. **Pull the Latest Changes:**
+      - Regularly pull the latest changes from the main branch to your local branch to keep it up-to-date.
+   
+      ```bash
+      git pull origin main
+      ```
+      
+---
+
+# How to contribute to this repository (Using Git commands)
 Collaborating on GitHub involves working with others on a shared project. Here's a general guide on how to collaborate using GitHub:
 
 1. **Create a GitHub Account:**
