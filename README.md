@@ -1,5 +1,4 @@
 # MultiOmics2024
-make jump to #How to contribute to this repository
 
 # Table of Contents
 - [Introduction](#introduction)
