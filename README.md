@@ -3,8 +3,8 @@ make jump to #How to contribute to this repository
 
 # Table of Contents
 - [Introduction](#introduction)
-- [How to contribute to this repository](#how-to-contribute-to-this-repository-(using-github-desktop))
-- [How to contribute to this repository](#how-to-contribute-to-this-repository-(using-git-commands))
+- [How to contribute to this repository via GitHub Desktop](#how-to-contribute-to-this-repository-(using-github-desktop))
+- [How to contribute to this repository via Git commands](#how-to-contribute-to-this-repository-(using-git-commands))
 - [How to perform document with Mark down language (using .md file)](#how-to-perform-document-with-mark-down-language-using-md-file)
 
 
@@ -27,7 +27,7 @@ Collaborating on GitHub involves working with others on a shared project. Here's
    - First step you need to go to local folder where you want to clone the repository.
    For example
    ```bash
-   cd /home/username/Documents
+   cd /home/username/Documents #you can change the path to any path you want
    ```
    ```bash
    mkdir GitHub; cd GitHub
@@ -91,7 +91,7 @@ Collaborating on GitHub involves working with others on a shared project. Here's
       ```bash
       git pull origin main
       ```
-      
+
 ---
 
 # How to contribute to this repository (Using Git commands)
@@ -106,7 +106,7 @@ Collaborating on GitHub involves working with others on a shared project. Here's
    - First step you need to go to local folder where you want to clone the repository.
    For example
    ```bash
-   cd /home/username/Documents
+   cd /home/username/Documents #you can change the path to any path you want
    ```
    ```bash
    mkdir GitHub; cd GitHub
