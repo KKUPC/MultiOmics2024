@@ -3,7 +3,7 @@
 # Table of Contents
 - [Introduction](#introduction)
 - [How to contribute to this repository via GitHub Desktop](#how-to-contribute-to-this-repository-via-gitHub-desktop)
-- [How to contribute to this repository via Git commands](#how-to-contribute-to-this-repository-via-gitHub-commands)
+- [How to contribute to this repository via Git commands](#how-to-contribute-to-this-repository-via-git-commands)
 - [How to perform document with Mark down language (using .md file)](#how-to-perform-document-with-mark-down-language-using-md-file)
 
 ---
