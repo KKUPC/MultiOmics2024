@@ -2,8 +2,8 @@
 ---
 # Table of Contents
 - [Introduction](#introduction)
-- [How to contribute to this repository via GitHub Desktop](#how-to-contribute-to-this-repository-(using-github-desktop))
-- [How to contribute to this repository via Git commands](how-to-contribute-to-this-repository-(using-git-commands))
+- [How to contribute to this repository via GitHub Desktop](#how-to-contribute-to-this-repository-via-gitHub-desktop)
+- [How to contribute to this repository via Git commands](#how-to-contribute-to-this-repository-via-gitHub-commands)
 - [How to perform document with Mark down language (using .md file)](#how-to-perform-document-with-mark-down-language-using-md-file)
 
 ---
@@ -12,7 +12,7 @@ This repository is for the MultiOmics2024 course.
 Please read the following instructions carefully before you start working on the repository.
 
 ---
-# How to contribute to this repository (Using GitHub Desktop)
+# How to contribute to this repository via GitHub Desktop
 Collaborating on GitHub involves working with others on a shared project. Here's a general guide on how to collaborate using GitHub:
 
 1. **Create a GitHub Account:**
@@ -93,7 +93,7 @@ Collaborating on GitHub involves working with others on a shared project. Here's
 
 ---
 
-# How to contribute to this repository (Using Git commands)
+# How to contribute to this repository via Git commands
 Collaborating on GitHub involves working with others on a shared project. Here's a general guide on how to collaborate using GitHub:
 
 1. **Create a GitHub Account:**
