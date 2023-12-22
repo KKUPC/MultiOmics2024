@@ -11,6 +11,7 @@
    <img src="./elements/img/SynBio_Consortium_logo.webp" alt="SynBio" width="80" height=100%>
    <img src="./elements/img/KUSynBio.jpg" alt="KU-SynBio" width="80" height=100%>
 </div>
+
 ---
 # Table of Contents
 - [Introduction](#introduction)
