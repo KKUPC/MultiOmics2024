@@ -286,7 +286,7 @@ Remember that this is a basic workflow, and depending on the project, you might 
    <img src="./elements/img/MDKKU.png" alt="MD KKU" width="80" height=100%>
    <img src="./elements/img/Systems%20Biosciences.jpg" alt="Systems Biosciences" width="80" height=100%>
    <img src="./elements/img/KKUPC_text.png" alt="AKKUPC" width="80" height=100%>
-   <img src="./elements/img/Si-LoL.png" alt="Si-LoL" width="80" height=100%>
+   <img src="./elements/img/si-lol.png" alt="Si-LoL" width="80" height=100%>
    <img src="./elements/img/DMB+logo-color1.png" alt="DMB" width="80" height=100%>
    <img src="./elements/img/SynBio_Consortium_logo.webp" alt="SynBio" width="80" height=100%>
    <img src="./elements/img/KUSynBio.jpg" alt="KU-SynBio" width="80" height=100%>
