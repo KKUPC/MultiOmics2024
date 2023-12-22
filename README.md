@@ -1,5 +1,17 @@
 # MultiOmics2024
 ---
+<div style="display: flex; justify-content: center; align-items: center;">
+   <img src="./elements/img/PMU-B.png" alt="PMU-B" width="80" height=100%>
+   <img src="./elements/img/KKU.png" alt="KKU" width="80" height=100%>
+   <img src="./elements/img/MDKKU.png" alt="MD KKU" width="80" height=100%>
+   <img src="./elements/img/Systems%20Biosciences.jpg" alt="Systems Biosciences" width="80" height=100%>
+   <img src="./elements/img/KKUPC_text.png" alt="AKKUPC" width="80" height=100%>
+   <img src="./elements/img/si-lol.png" alt="Si-LoL" width="80" height=100%>
+   <img src="./elements/img/DMB+logo-color1.png" alt="DMB" width="80" height=100%>
+   <img src="./elements/img/SynBio_Consortium_logo.webp" alt="SynBio" width="80" height=100%>
+   <img src="./elements/img/KUSynBio.jpg" alt="KU-SynBio" width="80" height=100%>
+</div>
+---
 # Table of Contents
 - [Introduction](#introduction)
 - [How to contribute to this repository via GitHub Desktop](#how-to-contribute-to-this-repository-via-gitHub-desktop)
@@ -280,14 +292,4 @@ Remember that this is a basic workflow, and depending on the project, you might 
    \*This is not italic\*
    ```
 
-<div style="display: flex; justify-content: space-between;">
-   <img src="./elements/img/PMU-B.png" alt="PMU-B" width="80" height=100%>
-   <img src="./elements/img/KKU.png" alt="KKU" width="80" height=100%>
-   <img src="./elements/img/MDKKU.png" alt="MD KKU" width="80" height=100%>
-   <img src="./elements/img/Systems%20Biosciences.jpg" alt="Systems Biosciences" width="80" height=100%>
-   <img src="./elements/img/KKUPC_text.png" alt="AKKUPC" width="80" height=100%>
-   <img src="./elements/img/si-lol.png" alt="Si-LoL" width="80" height=100%>
-   <img src="./elements/img/DMB+logo-color1.png" alt="DMB" width="80" height=100%>
-   <img src="./elements/img/SynBio_Consortium_logo.webp" alt="SynBio" width="80" height=100%>
-   <img src="./elements/img/KUSynBio.jpg" alt="KU-SynBio" width="80" height=100%>
 
