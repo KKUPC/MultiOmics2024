@@ -236,7 +236,7 @@ Remember that this is a basic workflow, and depending on the project, you might 
    - Item 2
       - Subitm 2.1
 
-   **Ordered List:**
+6. **Ordered List:**
 
    ```markdown
    1. First item
@@ -256,7 +256,7 @@ Remember that this is a basic workflow, and depending on the project, you might 
 
    You can create clickable links.
 
-9. **Images:**
+8. **Images:**
 
    ```markdown
    ![Alt Text](image-url)
@@ -275,7 +275,7 @@ Remember that this is a basic workflow, and depending on the project, you might 
    </div>
    Embed images using the above syntax.
 
-11. **Blockquotes:**
+9. **Blockquotes:**
 
    ```markdown
    > This is a blockquote.
@@ -303,7 +303,7 @@ Remember that this is a basic workflow, and depending on the project, you might 
 
    Creates a horizontal rule.
 
-11. **Tables:**
+10. **Tables:**
 
    ```markdown
    | Header 1 | Header 2 |
