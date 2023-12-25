@@ -199,19 +199,28 @@ Remember that this is a basic workflow, and depending on the project, you might 
    ## Header 2
    ### Header 3
    ```
+   Output.
+   # Header 1
+   ## Header 2
+   ### Header 3
 
    This creates headers of different levels.
 
-2. **Emphasis:**
+3. **Emphasis:**
 
    ```markdown
    *italic* or _italic_
    **bold** or __bold__
+   ***bold & italic*** ___bold & italic___
    ```
+   Output.
+   *italic*
+   **Bolder**
+   ***bold & italic***
 
    Use asterisks `*` or underscores `_` to make text italic or bold.
 
-3. **Lists:**
+5. **Lists:**
 
    **Unordered List:**
 
@@ -220,6 +229,10 @@ Remember that this is a basic workflow, and depending on the project, you might 
    - Item 2
      - Subitem 2.1
    ```
+   Output.
+   - Item 1
+   - Item 2
+      - Subitm 2.1
 
    **Ordered List:**
 
@@ -227,30 +240,45 @@ Remember that this is a basic workflow, and depending on the project, you might 
    1. First item
    2. Second item
    ```
+   Output.
+   1. First item
+   2. Second item
 
-4. **Links:**
+7. **Links:**
 
    ```markdown
-   [Link Text](http://www.example.com)
+   [Google](http://www.google.com)
    ```
+   Output.
+   [Google](http://www.google.com)
 
    You can create clickable links.
 
-5. **Images:**
+9. **Images:**
 
    ```markdown
    ![Alt Text](image-url)
    ```
-
+   Output
+   ![KKUPC logo](./elements/img/KKUPC_text.png)
+   or HTML code
+   ```HTML
+   <img src="./elements/img/KKUPC_text.png" alt="AKKUPC" width="80" height=100%>
+   ```
+   Output.
+   <img src="./elements/img/KKUPC_text.png" alt="AKKUPC" width="80" height=100%>
    Embed images using the above syntax.
 
-6. **Blockquotes:**
+11. **Blockquotes:**
 
    ```markdown
    > This is a blockquote.
    ```
+   Output.
+   > This is a blockquote.
+      > Test
 
-7. **Code:**
+11. **Code:**
 
    Inline code: \`code\`
 
@@ -262,7 +290,7 @@ Remember that this is a basic workflow, and depending on the project, you might 
 
    You can specify the language for syntax highlighting after the opening triple backticks, like \```python.
 
-8. **Horizontal Rule:**
+11. **Horizontal Rule:**
 
    ```markdown
    ---
@@ -270,7 +298,7 @@ Remember that this is a basic workflow, and depending on the project, you might 
 
    Creates a horizontal rule.
 
-9. **Tables:**
+11. **Tables:**
 
    ```markdown
    | Header 1 | Header 2 |
@@ -278,11 +306,11 @@ Remember that this is a basic workflow, and depending on the project, you might 
    | Cell 1   | Cell 2   |
    | Cell 3   | Cell 4   |
    ```
+   Output.
    | Header 1 | Header 2 |
    | -------- | -------- |
    | Cell 1   | Cell 2   |
    | Cell 3   | Cell 4   |
-   
    Creates a simple table.
 
 11. **Escaping Characters:**
