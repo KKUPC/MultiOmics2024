@@ -215,7 +215,9 @@ Remember that this is a basic workflow, and depending on the project, you might 
    ```
    Output.
    *italic*
+   
    **Bolder**
+   
    ***bold & italic***
 
    Use asterisks `*` or underscores `_` to make text italic or bold.
@@ -263,7 +265,9 @@ Remember that this is a basic workflow, and depending on the project, you might 
    ![KKUPC logo](./elements/img/KKUPC_text.png)
    or HTML code
    ```HTML
-   <img src="./elements/img/KKUPC_text.png" alt="AKKUPC" width="80" height=100%>
+   <div>
+      <img src="./elements/img/KKUPC_text.png" alt="AKKUPC" width="80" height=100%>
+   </div>
    ```
    Output.
    <img src="./elements/img/KKUPC_text.png" alt="AKKUPC" width="80" height=100%>
