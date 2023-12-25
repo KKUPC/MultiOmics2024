@@ -266,12 +266,12 @@ Remember that this is a basic workflow, and depending on the project, you might 
    or HTML code
    ```HTML
    <div>
-      <img src="./elements/img/KKUPC_text.png" alt="AKKUPC" width="80" height=100%>
+      <img src="./elements/img/KKUPC_text.png" alt="KKUPC" width="80" height=100%>
    </div>
    ```
    Output.
    <div>
-      <img src="./elements/img/KKUPC_text.png" alt="AKKUPC" width="80" height=100%>
+      <img src="./elements/img/KKUPC_text.png" alt="KKUPC" width="80" height=100%>
    </div>
    Embed images using the above syntax.
 
