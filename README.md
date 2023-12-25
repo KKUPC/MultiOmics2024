@@ -270,7 +270,9 @@ Remember that this is a basic workflow, and depending on the project, you might 
    </div>
    ```
    Output.
-   <img src="./elements/img/KKUPC_text.png" alt="AKKUPC" width="80" height=100%>
+   <div>
+      <img src="./elements/img/KKUPC_text.png" alt="AKKUPC" width="80" height=100%>
+   </div>
    Embed images using the above syntax.
 
 11. **Blockquotes:**
