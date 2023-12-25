@@ -282,7 +282,6 @@ Remember that this is a basic workflow, and depending on the project, you might 
    ```
    Output.
    > This is a blockquote.
-      > Test
 
 11. **Code:**
 
