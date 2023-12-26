@@ -15,7 +15,7 @@
       <img src="./elements/img/SBCM logo.jpg" alt="Systems Biosciences" width="85" height=100%>
    </a>
    <a href="https://kkuipl.wordpress.com">
-      <img src="./elements/img/KKUPC.png" alt="KKUPC" width=100% height="50">
+      <img src="./elements/img/KKUPC.png" alt="KKUPC" width="100" height=100%>
    </a>
    <a href="https://www.longreadlab.com">
       <img src="./elements/img/si-lol.png" alt="Si-LoL" width="85" height=100%>
