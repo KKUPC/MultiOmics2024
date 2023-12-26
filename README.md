@@ -1,7 +1,9 @@
 # MultiOmics2024
 ---
 <div style="display: flex; justify-content: center; align-items: center;">
-   <img src="./elements/img/PMU-B.png" alt="PMU-B" width="85" height=100%>
+   <a href="https://pmu-hr.or.th">
+      <img src="./elements/img/PMU-B.png" alt="PMU-B" width="85" height=100%>
+   </a>
    <img src="./elements/img/KKU.png" alt="KKU" width="85" height=100%>
    <img src="./elements/img/MDKKU.png" alt="MD KKU" width="85" height=100%>
    <img src="./elements/img/Systems%20Biosciences.jpg" alt="Systems Biosciences" width="85" height=100%>
