@@ -1,8 +1,9 @@
 # MultiOmics2024
 ---
+
 <div style="display: flex; justify-content: center; align-items: center;">
    <a href="https://pmu-hr.or.th">
-      <img src="./elements/img/PMU-B.png" width="85" height=100%>
+      <img src="./elements/img/PMU-B.png" alt="PMU-B" width="85" height=100%>
    </a>
    <a href="https://th.kku.ac.th">
       <img src="./elements/img/KKU.png" alt="KKU" width="85" height=100%>
@@ -23,7 +24,7 @@
       <img src="./elements/img/DMB+logo-color1.png" alt="DMB" width="85" height=100%>
    </a>
    <a href="https://www.th-synbioconsortium.com">
-      <img src="./elements/img/SynBio_Consortium_logo.webp" alt="SynBio" width="85" height=100%>
+      <img src="./elements/img/SynBio_Consortium_logo.webp" alt="SynBio" width="85" height=100% href="https://www.th-synbioconsortium.com">
 
    <a href="https://www.facebook.com/kusynbio/">
       <img src="./elements/img/KUSynBio.jpg" alt="KU-SynBio" width="85" height=100% href="https://www.facebook.com/kusynbio/">
