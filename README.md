@@ -12,10 +12,10 @@
       <img src="./elements/img/MDKKU.png" alt="MD KKU" width="85" height=100%>
    </a>
    <a href="https://www.facebook.com/systemsbiosciences">
-      <img src="./elements/img/Systems%20Biosciences.jpg" alt="Systems Biosciences" width="85" height=100%>
+      <img src="./elements/img/SBCM logo.jpg" alt="Systems Biosciences" width="85" height=100%>
    </a>
    <a href="https://kkuipl.wordpress.com">
-      <img src="./elements/img/KKUPC_text.png" alt="AKKUPC" width="85" height=100%>
+      <img src="./elements/img/KKUPC.png" alt="AKKUPC" width="85" height=100%>
    </a>
    <a href="https://www.longreadlab.com">
       <img src="./elements/img/si-lol.png" alt="Si-LoL" width="85" height=100%>
@@ -27,7 +27,10 @@
       <img src="./elements/img/SynBio_Consortium_logo.webp" alt="SynBio" width="85" height=100%>
 
    <a href="https://www.facebook.com/kusynbio/">
-      <img src="./elements/img/KUSynBio.jpg" alt="KU-SynBio" width="85" height=100%>
+      <img src="./elements/img/KUSynBio.png" alt="KU-SynBio" width="85" height=100%>
+   </a>
+   <a href="https://www.mitrphol.com/home">
+      <img src="./elements/img/mitrphol.png" alt="Mitrphol" width="85" height=100%>
    </a>
 </div>
 
