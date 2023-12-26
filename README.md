@@ -24,9 +24,7 @@
    </a>
    <a href="https://www.th-synbioconsortium.com">
       <img src="./elements/img/SynBio_Consortium_logo.webp" alt="SynBio" width="85" height=100%>
-   </a>
-   <a href="https://www.facebook.com/kusynbio/">
-      <img src="./elements/img/KUSynBio.jpg" alt="KU-SynBio" width="85" height=100%>
+      <img src="./elements/img/KUSynBio.jpg" alt="KU-SynBio" width="85" height=100% href="https://www.facebook.com/kusynbio/">
    </a>
 </div>
 
