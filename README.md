@@ -17,7 +17,7 @@
 - [Introduction](#introduction)
 - [How to contribute to this repository via GitHub Desktop](#how-to-contribute-to-this-repository-via-gitHub-desktop)
 - [How to contribute to this repository via Git commands](#how-to-contribute-to-this-repository-via-git-commands)
-- [How to perform document with Mark down language (using .md file)](#how-to-perform-document-with-mark-down-language-using-md-file)
+- [How to perform document with Mark down language via .md file](#how-to-perform-document-with-mark-down-language-via-md-file)
 
 ---
 # Introduction
@@ -190,7 +190,7 @@ Collaborating on GitHub involves working with others on a shared project. Here's
 Remember that this is a basic workflow, and depending on the project, you might encounter variations such as rebasing, squashing commits, or using forks. Familiarize yourself with Git and GitHub documentation for more advanced collaboration techniques.
 
 ---
-# How to perform document with Mark down language (using .md file)
+# How to perform document with Mark down language via .md file
 
 1. **Headers:**
 
