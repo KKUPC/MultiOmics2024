@@ -12,7 +12,7 @@
       <img src="./elements/img/MDKKU.png" alt="MD KKU" width="85" height=100%>
    </a>
    <a href="https://www.facebook.com/systemsbiosciences">
-      <img src="./elements/img/SBCM logo.png" alt="Systems Biosciences" width="85" height=100%>
+      <img src="./elements/img/SBCM logo.png" alt="Systems Biosciences" width="50" height=100%>
    </a>
    <a href="https://kkuipl.wordpress.com">
       <img src="./elements/img/KKUPC.png" alt="KKUPC" width="150" height=100%>
