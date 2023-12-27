@@ -30,7 +30,7 @@
       <img src="./elements/img/KUSynBio.jpg" alt="KU-SynBio" width="85" height=100%>
    </a>
    <a href="https://www.mitrphol.com/home">
-      <img src="./elements/img/mitrphol.png" alt="Mitrphol" width="85" height=100%>
+      <img src="./elements/img/mitrphol.png" alt="Mitrphol" width="60" height=100%>
    </a>
 </div>
 
