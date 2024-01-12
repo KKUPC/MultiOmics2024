@@ -35,6 +35,10 @@
 </div>
 
 <!-- pagebreak -->
+# Agenda
+<!-- pagebreak -->
+# Sponsors
+<!-- pagebreak -->
 # Table of Contents
 - [Introduction](#introduction)
 - [How to contribute to this repository via GitHub Desktop](#how-to-contribute-to-this-repository-via-gitHub-desktop)
