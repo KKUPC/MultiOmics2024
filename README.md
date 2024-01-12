@@ -54,7 +54,7 @@
 - [How to contribute to this repository via GitHub Desktop](#how-to-contribute-to-this-repository-via-gitHub-desktop)
 - [How to contribute to this repository via Git commands](#how-to-contribute-to-this-repository-via-git-commands)
 - [How to perform document with Mark down language via .md file](#how-to-perform-document-with-mark-down-language-via-md-file)
-- [R session]([./03_R_session/content/R-document.md](https://github.com/KKUPC/MultiOmics2024/blob/4551e5013153114405d44b426338e311e36c49b7/03%20R%20session/Content/R-document.md))
+- [R session](https://github.com/KKUPC/MultiOmics2024/blob/4551e5013153114405d44b426338e311e36c49b7/03%20R%20session/Content/R-document.md)
 
 <!-- pagebreak -->
 # Introduction
