@@ -329,13 +329,13 @@ Remember that this is a basic workflow, and depending on the project, you might 
 
    ```markdown
    | Header 1 | Header 2 |
-   | <!-- pagebreak --><!-- pagebreak -->-- | <!-- pagebreak --><!-- pagebreak -->-- |
+   |  ------  |  ------  |
    | Cell 1   | Cell 2   |
    | Cell 3   | Cell 4   |
    ```
    Output.
    | Header 1 | Header 2 |
-   | <!-- pagebreak --><!-- pagebreak -->-- | <!-- pagebreak --><!-- pagebreak -->-- |
+   |  ------  |  ------  |
    | Cell 1   | Cell 2   |
    | Cell 3   | Cell 4   |
    Creates a simple table.
