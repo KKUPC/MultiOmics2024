@@ -1,16 +1,13 @@
----
-title: "Title"
-author: "Theerayut"
-geometry: paperheight=8.5in,paperwidth=5.5in,margin=1in
-output:
-    pdf_document
----
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="./elements/img/Page/Mockup_cover.png" alt="PMU-B" width="85" height=100%>
+</div>
+
 Cover
----
+\newpage
 Agenda
----
+\newpage
 Sponsors
----
+\newpage
 Content
----
+\newpage
 
