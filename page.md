@@ -1,6 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="./elements/img/Page/Mockup_cover.png" alt="Cover" width="85" height=100%>
-</div>
+![Cover Image](./elements/img/Page/Mockup_cover.png)
+
 
 Cover
 \newpage
