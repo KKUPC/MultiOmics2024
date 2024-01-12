@@ -1,8 +1,5 @@
 ![Cover Image](./elements/img/Page/Mockup_cover.png)
-
-
-Cover
-\newpage
+<!-- pagebreak -->
 Agenda
 \newpage
 Sponsors
