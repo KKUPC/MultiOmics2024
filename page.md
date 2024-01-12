@@ -7,7 +7,7 @@ Cover
 Agenda
 \newpage
 Sponsors
-\newpage
+---
 Content
 \newpage
 
