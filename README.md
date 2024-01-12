@@ -1,5 +1,5 @@
 # MultiOmics2024
----
+<!-- pagebreak -->
 
 <div style="display: flex; justify-content: center; align-items: center;">
    <a href="https://pmu-hr.or.th">
@@ -34,19 +34,19 @@
    </a>
 </div>
 
----
+<!-- pagebreak -->
 # Table of Contents
 - [Introduction](#introduction)
 - [How to contribute to this repository via GitHub Desktop](#how-to-contribute-to-this-repository-via-gitHub-desktop)
 - [How to contribute to this repository via Git commands](#how-to-contribute-to-this-repository-via-git-commands)
 - [How to perform document with Mark down language via .md file](#how-to-perform-document-with-mark-down-language-via-md-file)
 
----
+<!-- pagebreak -->
 # Introduction
 This repository is for the MultiOmics2024 course.
 Please read the following instructions carefully before you start working on the repository.
 
----
+<!-- pagebreak -->
 # How to contribute to this repository via GitHub Desktop
 Collaborating on GitHub involves working with others on a shared project. Here's a general guide on how to collaborate using GitHub:
 
@@ -126,7 +126,7 @@ Collaborating on GitHub involves working with others on a shared project. Here's
       git pull origin main
       ```
 
----
+<!-- pagebreak -->
 
 # How to contribute to this repository via Git commands
 Collaborating on GitHub involves working with others on a shared project. Here's a general guide on how to collaborate using GitHub:
@@ -211,7 +211,7 @@ Collaborating on GitHub involves working with others on a shared project. Here's
 
 Remember that this is a basic workflow, and depending on the project, you might encounter variations such as rebasing, squashing commits, or using forks. Familiarize yourself with Git and GitHub documentation for more advanced collaboration techniques.
 
----
+<!-- pagebreak -->
 # How to perform document with Mark down language via .md file
 
 1. **Headers:**
@@ -320,7 +320,7 @@ Remember that this is a basic workflow, and depending on the project, you might 
 11. **Horizontal Rule:**
 
    ```markdown
-   ---
+   <!-- pagebreak -->
    ```
 
    Creates a horizontal rule.
@@ -329,13 +329,13 @@ Remember that this is a basic workflow, and depending on the project, you might 
 
    ```markdown
    | Header 1 | Header 2 |
-   | -------- | -------- |
+   | <!-- pagebreak --><!-- pagebreak -->-- | <!-- pagebreak --><!-- pagebreak -->-- |
    | Cell 1   | Cell 2   |
    | Cell 3   | Cell 4   |
    ```
    Output.
    | Header 1 | Header 2 |
-   | -------- | -------- |
+   | <!-- pagebreak --><!-- pagebreak -->-- | <!-- pagebreak --><!-- pagebreak -->-- |
    | Cell 1   | Cell 2   |
    | Cell 3   | Cell 4   |
    Creates a simple table.
