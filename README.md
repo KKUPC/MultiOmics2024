@@ -1,5 +1,8 @@
 # MultiOmics2024
 <!-- pagebreak -->
+![https://pmu-hr.or.th](./elements/img/PMU-B.png){:width="300px" height="200px"}
+
+
 <div style="display: flex; justify-content: center; align-items: center;">
    <a href="https://pmu-hr.or.th">
       <img src="./elements/img/PMU-B.png" alt="PMU-B" width="85" height=100%>
