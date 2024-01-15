@@ -1,6 +1,6 @@
 # MultiOmics2024
 <!-- pagebreak -->
-![https://pmu-hr.or.th](./elements/img/PMU-B.png){:width="300px" height="200px"}
+![PMU-B](./elements/img/PMU-B.png){:width="300px" height="200px"}[https://pmu-hr.or.th]
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
