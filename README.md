@@ -1,39 +1,6 @@
 # MultiOmics2024
 <!-- pagebreak -->
-
-<div style="display: flex; justify-content: center; align-items: center;">
-   <a href="https://pmu-hr.or.th">
-      <img src="./elements/img/PMU-B.png" alt="PMU-B" width="85" height=100%>
-   </a>
-   <a href="https://th.kku.ac.th">
-      <img src="./elements/img/KKU.png" alt="KKU" width="90" height=100%>
-   </a>
-   <a href="https://md.kku.ac.th">
-      <img src="./elements/img/MDKKU.png" alt="MD KKU" width="85" height=100%>
-   </a>
-   <a href="https://www.facebook.com/systemsbiosciences">
-      <img src="./elements/img/SBCM logo.png" alt="Systems Biosciences" width="50" height=100%>
-   </a>
-   <a href="https://kkuipl.wordpress.com">
-      <img src="./elements/img/KKUPC.png" alt="KKUPC" width="150" height=100%>
-   </a>
-   <a href="https://www.longreadlab.com">
-      <img src="./elements/img/si-lol.png" alt="Si-LoL" width="85" height=100%>
-   </a>
-   <a href="https://www.sidmb.org">
-      <img src="./elements/img/DMB+logo-color1.png" alt="DMB" width="85" height=100%>
-   </a>
-   <a href="https://www.th-synbioconsortium.com">
-      <img src="./elements/img/SynBio_Consortium_logo.webp" alt="SynBio" width="85" height=100%>
-
-   <a href="https://www.facebook.com/kusynbio/">
-      <img src="./elements/img/KUSynBio.jpg" alt="KU-SynBio" width="85" height=100%>
-   </a>
-   <a href="https://www.mitrphol.com/home">
-      <img src="./elements/img/mitrphol.png" alt="Mitrphol" width="60" height=100%>
-   </a>
-</div>
-
+![Logo MutiOmics](./elements/img/Logo/Logo_Multi-omics_4.png)
 
 <!-- pagebreak -->
 # Cover
