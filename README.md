@@ -41,8 +41,8 @@
 <!-- pagebreak -->
 
 # Agenda
-![Agenda_1]("./element/img/page/Agenda_1.png")
-![Agenda_2]("./element/img/page/Agenda_2.png")
+![Agenda_1]("./elements/img/page/Agenda_1.png")
+![Agenda_2]("./elements/img/page/Agenda_2.png")
 <!-- pagebreak -->
 # Exhibitors
 <!-- pagebreak -->
