@@ -24,11 +24,11 @@
 
 
 Agenda Short Course in Multi-Omics on 23 January - 2 February 2024 
-at 9th Floor Khon Kaen Innovation Center (KIC) Building 
+at 9<sup>th</sup>Floor Khon Kaen Innovation Center (KIC) Building 
 
 |Day/Time|Activity|
 |:---:|:---:|
-|23th Jan 2024|
+|23<sup>th</sup>Jan 2024|
 |8:30-9:00|Check-in|
 |9:00-10:30|Computational thinking and study design|
 |10:30-11:00|Coffee break & Networking|
@@ -37,7 +37,7 @@ at 9th Floor Khon Kaen Innovation Center (KIC) Building
 |13:00-15:00|Hands on: Experimental design and analytical planning|
 |15:00-15:30|Coffee break & Networking|
 |15:30-17:30|Hands on: Unix|
-|24th Jan 2024|
+|24<sup>th</sup>Jan 2024|
 |8:30-9:00|Check-in|
 |9:00-10:00|Principle of R programing|
 |10:00-10:15|Coffee break & Networking|
@@ -47,7 +47,7 @@ at 9th Floor Khon Kaen Innovation Center (KIC) Building
 |14:15-14:30|Coffee break & Networking|
 |14:30-16:30|Principle of statistics for omics|
 |16:30-17:30|Sample preparation|
-|25th Jan 2024|
+|25<sup>th</sup>Jan 2024|
 |8:30-9:00|Check-in|
 |9:00-10:00|Graphical, visualization and interpretation|
 |10:00-10:15|Coffee break & Networking| 
@@ -57,7 +57,7 @@ at 9th Floor Khon Kaen Innovation Center (KIC) Building
 |14:30-14:45|Coffee break & Networking| 
 |15:00-17:00|Hands on: Genomics practice I |
 |16:30 -17:30|Hands on: Genomics practice II|
-|26th Jan 2024|
+|26<sup>th</sup>Jan 2024|
 |8:30-9:00|Check-in|
 |9:00-10:30|Principle of transcriptomics I|
 |10:30-10:45|Coffee break & Networking| 
@@ -66,7 +66,7 @@ at 9th Floor Khon Kaen Innovation Center (KIC) Building
 |13:15-15:15|Hands on: Transcriptomics practice I|
 |15:15-15:30|Coffee break & Networking| 
 |15:30-17:30|Hands on: Transcriptomics practice II|
-|27th Jan 2024|
+|27<sup>th</sup>Jan 2024|
 |8:30-9:00|Check-in|
 |9:00-10:30|Principle of Metabolomics|
 |10:30-10:45|Coffee break & Networking| 
@@ -75,7 +75,7 @@ at 9th Floor Khon Kaen Innovation Center (KIC) Building
 |13:15-15:15|Hands on: Metabolomics practice I|
 |15:15-15:30|Coffee break & Networking| 
 |15:30-17:30|Hands on: Metabolomics practice II|
-|28th Jan 2024
+|28<sup>th</sup>Jan 2024
 |8:30-9:00|Check-in|
 |9:00-10:30|Mini project| 
 |10:30-10:45|Coffee break & Networking| 
@@ -84,7 +84,7 @@ at 9th Floor Khon Kaen Innovation Center (KIC) Building
 |13:15-15:15|Mini project| 
 |15:15-15:30|Coffee break & Networking| 
 |15:30-17:30|Mini project| 
-|29th Jan 2024
+|29<sup>th</sup>Jan 2024
 |8:30-9:00|Check-in|
 |9:00-10:30|Principle of Proteomics|
 |10:30-10:45|Coffee break & Networking| 
@@ -93,7 +93,7 @@ at 9th Floor Khon Kaen Innovation Center (KIC) Building
 |13:15-15:15|Hands on: Proteomics practice I|
 |15:15-15:30|Coffee break & Networking| 
 |15:30-17:30|Hands on: Proteomics practice II|
-|30th Jan 2024
+|30<sup>th</sup>Jan 2024
 |8:30-9:00|Check-in|
 |9:00-10:30|Principle of CRISPR|Natthawut
 |10:30-10:45|Coffee break & Networking| 
@@ -111,7 +111,7 @@ at 9th Floor Khon Kaen Innovation Center (KIC) Building
 |13:15-15:15|Hands on: Microbiome|
 |15:15-15:30|Coffee break & Networking| 
 |15:30-17:30|Hands on: Microbiome|
-|1st February 2024
+|1<sup>st</sup> February 2024
 |8:30-9:00|Check-in|
 |9:00-10:30|Data integration |
 |10:30-10:45|Coffee break & Networking| 
@@ -120,7 +120,7 @@ at 9th Floor Khon Kaen Innovation Center (KIC) Building
 |13:15-15:15|Hands on: Data intregation I|
 |15:15-15:30|Coffee break & Networking| 
 |15:30-17:30|Hands on: Data integration II|
-|2nd February 2024
+|2<sup>nd</sup> February 2024
 |8:30-9:00|Check-in|
 |9:00-10:30|Lecture Examination|
 |10:30-10:45|Coffee break & Networking| 
