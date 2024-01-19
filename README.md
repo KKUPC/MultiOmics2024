@@ -26,11 +26,11 @@
 Agenda Short Course in Multi-Omics on 23 January - 2 February 2024 
 at 9th Floor Khon Kaen Innovation Center (KIC) Building 
 
-|Day|Activity|Instructor|
-|:---:|:---:|:---:|
+|Day|Activity|
+|:---:|:---:|
 |23 January 2024|
-|08.00-09.00|Check-in|KKU tram|
-|09.00-10.30|Computational thinking and study design|KKU tram|
-|10.30-11.00|Coffee break & Networking|Exhibitor|
-|11.00-12.00|Principle of Unix|Theerayut|
+|08.00-09.00|Check-in|
+|09.00-10.30|Computational thinking and study design|
+|10.30-11.00|Coffee break & Networking|
+|11.00-12.00|Principle of Unix|
 |12.00-13.00|Lunch|
