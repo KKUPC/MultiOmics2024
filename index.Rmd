@@ -10,8 +10,9 @@ editor_options:
 
 ------------------------------------------------------------------------
 
-## ![](Page/elements/img/Agenda/Agenda_1.jpg)![](Page/elements/img/Agenda/Agenda_2.jpg) 
-## [Time table](.//Page/src/Time table) 
+## ![](Page/elements/img/Agenda/Agenda_1.jpg)![](Page/elements/img/Agenda/Agenda_2.jpg)
+
+## [Time table](Page/src/Time%20table)
 
 ------------------------------------------------------------------------
 
