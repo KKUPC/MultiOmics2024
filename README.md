@@ -9,8 +9,8 @@
 <!-- pagebreak -->
 
 # Agenda
-![Agenda_1](./Page/elements/img/Page/Agenda_1.jpeg)
-![Agenda_2](./Page/elements/img/Page/Agenda_1.jpeg)
+![Agenda_1](./Page/elements/img/Agenda/Agenda_1.jpeg)
+![Agenda_2](./Page/elements/img/Agenda/Agenda_1.jpeg)
 <!-- pagebreak -->
 # Exhibitors
 <!-- pagebreak -->
