@@ -1,4 +1,11 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
 # **Time table**
+
 ### 23<sup>th</sup> Jan 2024
 
 **Venue:** 9<sup>th</sup> Floor Khon Kaen Innovation Center (KIC)
