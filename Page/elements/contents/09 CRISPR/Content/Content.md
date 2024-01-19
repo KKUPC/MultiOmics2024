@@ -14,4 +14,4 @@ CRISPR/Cas9 functions against invading pathogens through three stages: adaptive,
 The delivery methods are crucial for the potential of CRISPR-Cas9 system. To achieve this, the sgRNA with Cas9 protein must be efficiently transported into target cells using suitable vectors. Currently, two primary types of delivery platforms exist: viral and non-viral vectors. Non-viral vectors, part of nanotechnology-based drug delivery systems, involve substances like lipid nanoparticles, polymer nanoparticles, or gold nanoparticles for CRISPR-Cas9 therapy. On the other hand, viral vectors utilize their ability to transfer foreign genetic materials (transduction) into target cells. Notable examples of viral vectors include adeno-associated virus (AAV), lentivirus, and adenovirus, each offering specific advantages suitable for diverse research applications.
 
 
-
+## [**Hands-on**](../Hands%20on/Example.html)
