@@ -41,3 +41,6 @@ The principles of Unix systems are often associated with the Unix philosophy, wh
     - Encourage the development of tools that can be used as building blocks for larger systems.
 
 While these principles provide a general guide, it's important to note that the Unix philosophy is more of a set of guidelines than strict rules. Unix-like systems, including Linux, have evolved over time, and modern practices may incorporate a blend of traditional Unix philosophy and newer ideas.
+
+# [**Basic commands**](./Basic_command.html)
+# [**Assignment**](../Hands%20on/HandsOn.html)
