@@ -22,7 +22,7 @@ editor_options:
 
 [![](./Page/elements/img/Exhibitors/Biodesign.jpeg)](https://www.biodesign.co.th/)
 
-[![](./Page/elements/img/Exhibitors/WTE.jpeg)](https://www.wte-lab.com/)
+[![](./Page/elements/img/Exhibitors/WTE.jpeg)](https://worldtechenterprise.com)
 
 [![](./Page/elements/img/Exhibitors/DKSH.png)](https://www.dksh.com/th-en/home)
 
@@ -32,9 +32,9 @@ editor_options:
 
 -   [UNIX](./Page/elements/contents/02%20UNIX%20session/Content/UNIX_Document.html)
 
--   [Experimental design and analytical planing](./)
+-   [Experimental design and analytical planing](./Page/elements/contents/01%20Experimental%20design/Content/HandsOn.html)
 
--   [R programing](./)
+-   [R programing](./Page/elements/contents/03%20R%20session/Content/R-document.html)
 
 -   [Sample preparation](./)
 
@@ -55,3 +55,4 @@ editor_options:
 ------------------------------------------------------------------------
 
 ![](Page/elements/img/Logo/Logo_Multi-omics_2.png)![](Page/elements/img/Logo/Logo_Multi-omics_3.png)
+
