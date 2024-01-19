@@ -16,6 +16,21 @@
 <!-- pagebreak -->
 # Table of Contents
 - [Content](#content)
-- [UNIX](https://github.com/KKUPC/MultiOmics2024/blob/98322b69fa8e70c8fd1754b511a8d4b395c161c2/02%20UNIX%20session/Content/Basic_command.md)
+- [UNIX](./02%20UNIX%20session/Content/Unix_Doc.html)
+- [UNUX2](./02%20UNIX%20session/Content/Unix_Commands.html)
 <!-- pagebreak -->
 # Content
+
+
+
+Agenda Short Course in Multi-Omics on 23 January - 2 February 2024 
+at 9th Floor Khon Kaen Innovation Center (KIC) Building 
+
+|Day|Activity|Instructor|
+|:---:|:---:|:---:|
+|23 January 2024|
+|08.00-09.00|Check-in|KKU tram|
+|09.00-10.30|Computational thinking and study design|KKU tram|
+|10.30-11.00|Coffee break & Networking|Exhibitor|
+|11.00-12.00|Principle of Unix|Theerayut|
+|12.00-13.00|Lunch|
