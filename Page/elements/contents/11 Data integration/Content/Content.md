@@ -68,3 +68,6 @@ Go to the ‘Download’ page to download a zip-compressed package that contains
 To be noted, user account will be deactivated after 3 months inactivity and all the data
 files and results associated with the account will be permanently removed from the Cloud Server. However, you may delete your projects immediately after your results are
 downloaded.
+
+
+## [Home](../../../../../index.html)

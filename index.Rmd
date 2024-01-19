@@ -36,19 +36,19 @@ editor_options:
 
 -   [R programing](./Page/elements/contents/03%20R%20session/Content/R-document.html)
 
--   [Sample preparation (Content not available now)](./)
+-   [Sample preparation (Unavailable content)](./)
 
--   [Genomics (Content not available now)](./)
+-   [Genomics (Unavailable content)](./)
 
 -   [Transcriptomics](./Page/elements/contents/06%20Transcriptomics/Content/RNA.html)
 
--   [Metabolomics (Content not available now)](./)
+-   [Metabolomics (Unavailable content)](./)
 
 -   [Proteomics](./Page/elements/contents/08%20Proteomics/Content/Introduction.html)
 
 -   [CRISPR](./Page/elements/contents/09%20CRISPR/Content/Content.html)
 
--   [Microbiome (Content not available now)](./)
+-   [Microbiome (Unavailable content](./)
 
 -   [Data integration](./Page/elements/contents/11%20Data%20integration/Content/Content.html)
 

@@ -182,5 +182,3 @@
 4. Sort the lines of "sort.txt" in reverse alphabetical order and remove duplicate lines.
 
 ---
-
-
