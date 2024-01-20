@@ -24,7 +24,7 @@ editor_options:
 
 [![](./Page/elements/img/Exhibitors/Bruker.png)](https://www.bruker.com/en.html)
 
-[![](./Page/elements/img/Exhibitors/Genomax.png)(https://www.genomaxtech.com)]
+[![](./Page/elements/img/Exhibitors/Genomax.png)](https://www.genomaxtech.com)
 
 [![](./Page/elements/img/Exhibitors/WTE.jpeg)](https://worldtechenterprise.com)
 
