@@ -42,8 +42,6 @@ editor_options:
 
 -   [Python](./Page/elements/contents/04%20Python/Content/Content.html)
 
--   [Sample preparation (Unavailable content)](./)
-
 -   [Genomics](./Page/elements/contents/05%20Genomics/Content/Content.html)
 
 -   [Transcriptomics](./Page/elements/contents/06%20Transcriptomics/Content/RNA.html)
