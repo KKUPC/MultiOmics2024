@@ -22,6 +22,8 @@ editor_options:
 
 [![](./Page/elements/img/Exhibitors/Biodesign.jpeg)](https://www.biodesign.co.th/)
 
+[![](./Page/elements/img/Exhibitors/Bruker.png)](https://www.bruker.com/en.html)
+
 [![](./Page/elements/img/Exhibitors/WTE.jpeg)](https://worldtechenterprise.com)
 
 [![](./Page/elements/img/Exhibitors/DKSH.png)](https://www.dksh.com/th-en/home)
@@ -44,7 +46,7 @@ editor_options:
 
 -   [Transcriptomics](./Page/elements/contents/06%20Transcriptomics/Content/RNA.html)
 
--   [Metabolomics (Unavailable content)](./)
+-   [Metabolomics](./Page/elements/contents/07%20Metabolomics/Content/Introduction.html)
 
 -   [Proteomics](./Page/elements/contents/08%20Proteomics/Content/Introduction.html)
 
