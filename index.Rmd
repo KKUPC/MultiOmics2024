@@ -24,6 +24,8 @@ editor_options:
 
 [![](./Page/elements/img/Exhibitors/Bruker.png)](https://www.bruker.com/en.html)
 
+[![](./Page/elements/img/Exhibitors/Genomax.png)(https://www.genomaxtech.com)]
+
 [![](./Page/elements/img/Exhibitors/WTE.jpeg)](https://worldtechenterprise.com)
 
 [![](./Page/elements/img/Exhibitors/DKSH.png)](https://www.dksh.com/th-en/home)
@@ -42,7 +44,7 @@ editor_options:
 
 -   [Sample preparation (Unavailable content)](./)
 
--   [Genomics (Unavailable content)](./)
+-   [Genomics](./Page/elements/contents/05%20Genomics/Content/Content.html)
 
 -   [Transcriptomics](./Page/elements/contents/06%20Transcriptomics/Content/RNA.html)
 
