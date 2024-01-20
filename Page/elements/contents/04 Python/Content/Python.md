@@ -1,3 +1,8 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 # **Basics python syntax***
 
 1. **Print Statement:**

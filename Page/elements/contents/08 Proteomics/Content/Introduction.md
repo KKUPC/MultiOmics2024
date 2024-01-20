@@ -1,3 +1,8 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 # **Proteomics hands-on**
 
 MaxQuant is a popular software platform for quantitative analysis of mass spectrometry (MS) data, specifically designed for proteomics studies. Below is a basic outline of a proteome pipeline using MaxQuant. Keep in mind that the specific details may vary depending on the version of MaxQuant and your experimental setup.
@@ -44,4 +49,3 @@ MaxQuant is a popular software platform for quantitative analysis of mass spectr
 
 
 ## [**Tutorial**](./Content.html)
-## [Home](../../../../../index.html)

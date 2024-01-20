@@ -1,3 +1,8 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 ![](../img/R_logo.png)
 
 # **Basic R programming**

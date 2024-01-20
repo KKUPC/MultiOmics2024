@@ -1,3 +1,8 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 
 
 **Assignment 1: File and Directory Basics**

@@ -1,3 +1,8 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 # Hand-on CRISPR
 
 ## Research problem
