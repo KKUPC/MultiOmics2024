@@ -1,3 +1,8 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 # Metabolomics
 
 Metabolomics is a scientific discipline within the broader field of systems biology that focuses on the comprehensive study of small molecules, known as metabolites, within a biological system. Metabolites are the end products of cellular processes, representing the molecules involved in and produced by the various biochemical reactions occurring within cells. These metabolites include a wide range of compounds such as amino acids, lipids, sugars, and organic acids. The goal of metabolomics is to understand the dynamic metabolic processes occurring in cells, tissues, or organisms. Additionally, metabolites can reflect the outcome of interactions between an organism's genes and its environment. Metabolomics aims to identify and quantify these metabolites to understand the biochemical processes occurring in cells, tissues, or entire organisms. Key aspects of metabolomics include:

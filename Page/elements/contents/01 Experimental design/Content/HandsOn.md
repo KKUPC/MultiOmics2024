@@ -1,3 +1,8 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 # Hand on: Experimental design and Analytical planning
 
 ## Case study 1: Investigating the molecular basis of Alzheimer's disease 

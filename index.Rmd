@@ -2,6 +2,9 @@
 editor_options:
   markdown:
     wrap: 72
+output:
+  word_document: default
+  pdf_document: default
 ---
 
 ## ![](Page/elements/img/Logo/Logo_Multi-omics_4.png)

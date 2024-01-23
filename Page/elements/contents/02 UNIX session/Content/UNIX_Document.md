@@ -1,6 +1,9 @@
 ---
+output:
+  word_document: default
+  html_document: default
 ---
----
+# UNIX101
 
 The principles of Unix systems are often associated with the Unix philosophy, which is a set of cultural and design principles that guide the development and use of Unix-like operating systems. The Unix philosophy is not a formal document but rather a set of ideas and best practices that have evolved over time. Here are some key principles of the Unix philosophy:
 
