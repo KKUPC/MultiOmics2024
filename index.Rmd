@@ -3,13 +3,13 @@ editor_options:
   markdown:
     wrap: 72
 output:
-  word_document: default
-  pdf_document: default
   html_document:
     df_print: paged
+  pdf_document: default
+  word_document: default
 ---
 
-## ![](Page/elements/img/Logo/Logo_Multi-omics_4.png)
+
 
 ![](Page/elements/img/Logo/Logo_Multi-omics_1.png)
 
