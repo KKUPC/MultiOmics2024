@@ -148,6 +148,15 @@ python
 !conda install -c conda-forge jupyterlab
 ```
 
+# **Chenomx**
+## **Chenomx installation**
+
+1. Go to the [Chenomx website](https://www.chenomx.com/) and click on `Download`.
+2. Download the Chenomx installer for Windows or macOS.
+3. Open the downloaded file and follow the installation instructions.
+4. Once the installation is complete, you can open Chenomx to analyze NMR spectroscopy data.
+
+
 
 # **MaxQuant**
 ## **MaxQuant installation**
