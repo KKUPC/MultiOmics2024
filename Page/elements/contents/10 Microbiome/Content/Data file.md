@@ -7,3 +7,5 @@
 
 
 [Silva database](https://zenodo.org/records/14169026)
+
+[Descipher training model](https://www2.descipher.codes/downloads.html)
